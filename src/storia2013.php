@@ -66,17 +66,17 @@ Home
         <div class="row">       	
             <div class="col-lg-12 col-md-12 col-sm-12">
             	<article class="latest-post detail">
-              		<img src="assets/img/storia/2013/storia_2013.jpg" alt="dummy">
+              		<img src="../assets/img/storia/2013/storia_2013.jpg" alt="dummy">
                   <h2>Lacrime..di gioia!</h2>	<p text-indent="100%">
 
                   <!---------------------------------------------------------------------->
-				<img class="imgLeft"  src="assets/img/storia/2013/CambioTestimone.jpg" alt=""/>
+				<img class="imgLeft" src="../assets/img/storia/2013/CambioTestimone.jpg" alt=""/>
                 
                 Bench&egrave; dopo 5 anni di esperienza molte dinamiche "organizzative" fossero ben collaudate, la sfida maggiore del 2013 risiedeva nel "passaggio di testimone" a livello organizzativo in vista della vicina laurea di Wudy (al secolo Walter Riviera), "padre fondatore" dell'evento. Per certi versi si sarebbe potuto scegliere di mantenere le cose invariate rispetto agli anni precedenti, fino a laurea conseguita, ma l'idea era quella di sfruttare il 2013 come anno di collaudo per lo staff organizzativo che avrebbe poi proseguito l'attivit&agrave; nel 2014. Rimanendo quindi coerenti con la scelta del 2012, lo staff organizzativo acquis&igrave; maggiori responsabilit&agrave; sia in termini di incarichi che di decisioni. Tra le nuove "locomotive" delle varie commissioni ricordiamo: Alessandra Fin, Alex Malfatti, Lara Montresor e gli immancabili Lino Faedda e Paolo -Paolino- Erbizi.
                 <br>
 				<br>
                 Come tutti i gruppi che si rispettino, anche in quell'occasione non mancarono attimi di attrito o sconforto. Attimi che una volta lasciati decantare, non ebbero conseguenze spiacevoli sulla realizzazione finale, anzi. La festa riusc&igrave; dal punto di vista pratico, confermando le aspettative iniziali dello STAFF organizzativo che si dimostr&ograve; "pronto" per l'incarico dell'anno seguente ed inizi&ograve; a mostrare i molteplici vantaggi dell'avere distribuito l'organizzazione a pi&ugrave; persone. Lo stand della birra venne infatti ridimensionato piazzando due gazebi anzich&egrave; uno, collegati da un ulteriore banco per il servizio. Venne creata una nuova figura organizzativa: il "capo-cantiere", ruolo che doveva coordinare le attivit&agrave; di allestimento e smantellamento del parcheggio, sapientemente interpretato allora da Marco Canteri.
-                <img class="imgRight"  src="assets/img/storia/2013/StadBirre.jpg" alt=""/>
+                <img class="imgRight" src="../assets/img/storia/2013/StadBirre.jpg" alt=""/>
                 <br>
 				<br>
                 Per quanto riguarda l'intrattenimento col pubblico, visto il successo e l'apprezzamento della sfilata del 2011, venne proposta un iniziativa nuova: le premiazioni del concorso "MISS e MISTER SCIENZE". Concorso iniziato qualche mese prima all'interno dei dipartimenti, nato da un idea di Beatrice Mortoni affiancata nella realizzazione da Mattia Paoli e Lino Faedda. 
@@ -84,7 +84,7 @@ Home
                 <br>
                 Per molti, la maggior parte probabilmente, la festa fil&ograve; liscia tra i brindisi e le risate come ogni altro anno, ma per alcuni studenti dello STAFF quella festa rappresent&ograve; un cocktail di emozioni incredibili, un mix tra felicit&agrave; e soddisfazione per l'ennessima conferma di un evento ben riuscito accompagnate da un retrogusto di malinconia per la fine del "capitolo-Wudy".<br>
 Questa sensazione inizi&ograve; a farsi sentire qualche mese prima rispetto alla festa...e fu proprio questo aspetto a decretare il motto di quell'anno:"The show must go on!". Lo stesso messaggio venne poi racchiuso nel logo delle maglie STAFF: una fiamma che potesse continuare ad ardere con la stessa intensit&agrave e passione con cui era stato "acceso" un ambiente universitario pi&ugrave; caloroso ed accogliente negli ultimi anni.
-				<img class="imgLeft"  src="assets/img/storia/2013/MagliaCeleb.jpg" alt=""/>
+				<img class="imgLeft" src="../assets/img/storia/2013/MagliaCeleb.jpg" alt=""/>
 				<br>
                 <br>
                 Le emozioni di quel periodo furono il vero tratto distintivo dell'edizione 2013. Emozioni che emersero nella loro sfumatura pi&ugrave; positiva in due momenti durante la serata: la consegna delle maglie STAFF celebrative nere-oro ai ragazzi del gruppo organizztivo, maglie che ritraevano la stessa fiamma circondata da tante stelle quante erano le passate edizioni della festa, con sulle spalle la scritta "When a little people become a STAFF" e la consegna ai fedelissimi Lino e Paolino, di due riconoscimenti ufficiali firmati dai Direttori dei Dipartimenti (Biotecnologie ed Informatica) che elogiavano il loro impegno e la dedizione all'attivit&agrave di Rappresentanza.

@@ -141,7 +141,7 @@
         	<div class="col-lg-8 col-md-8 col-sm-8">
 				<h1>FESTASCIENZE 2018</h1>
 				<br>
-				<a href="/festa2017.php"><img style="max-width: 100%; display: block; margin: auto;" src="/assets/img/shosho_in_progress.png"></a>
+				<a href="/src/festa2017.php"><img style="max-width: 100%; display: block; margin: auto;" src="/assets/img/shosho_in_progress.png"></a>
 				<!--a href="/festa2017.php"><h3 style="text-align: center;">Tutti i dettagli dell'evento qui</h3></a-->
 				<br>
 			</div>

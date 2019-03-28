@@ -10,8 +10,8 @@
     	<?php getHTMLHead('Home'); ?>
         
        	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-		<script type="text/javascript" src="assets/js/TimeCircles.js"></script>
-		<link href="assets/css/TimeCircles.css" rel="stylesheet">
+		<script type="text/javascript" src="../assets/js/TimeCircles.js"></script>
+		<link href="../assets/css/TimeCircles.css" rel="stylesheet">
         
        	<style type="text/css">
 
@@ -71,7 +71,7 @@
                     </li>
                     <?php } ?>
                     <li> 
-                        <img src="assets/img/storia/2017/gruppo_2017.jpg" alt="2017" >
+                        <img src="../assets/img/storia/2017/gruppo_2017.jpg" alt="2017" >
                         <div class="flex-caption">
                             <h2> Festa di fine anno 2017</h2>
                         </div>
@@ -173,7 +173,7 @@
                 <div class="row">
                     <div class="col-lg-2 col-md-2 col-sm-2">
                         <div class="video-feed">
-                            <img src="assets/img/video/video_2017_promo.jpg" alt=""/>
+                            <img src="../assets/img/video/video_2017_promo.jpg" alt=""/>
                             <h6>2017 - PROMO</h6>
                             <a href="video.php?year=2017"><span class="fa fa-play"></span></a>
                         </div><!--\\video-feed-->
@@ -181,7 +181,7 @@
 
                     <div class="col-lg-2 col-md-2 col-sm-2">
                         <div class="video-feed">
-                            <img src="assets/img/video/video_2016_promo.jpg" alt=""/>
+                            <img src="../assets/img/video/video_2016_promo.jpg" alt=""/>
                             <a href="video.php?year=2016"><span class="fa fa-play"></span></a>
                             <h6>2016 - PROMO</h6>
                         </div><!--\\video-feed-->
@@ -189,7 +189,7 @@
 
                     <div class="col-lg-2 col-md-2 col-sm-2">
                         <div class="video-feed">
-                            <img src="assets/img/video/video_2015_promo.jpg" alt=""/>
+                            <img src="../assets/img/video/video_2015_promo.jpg" alt=""/>
                             <a href="video.php?year=2015"><span class="fa fa-play"></span></a>
                             <h6>2015 - PROMO</h6>
                         </div><!--\\video-feed-->
@@ -197,7 +197,7 @@
 
                     <div class="col-lg-2 col-md-2 col-sm-2">    
                         <div class="video-feed">
-                            <img src="assets/img/video/video_2014_promo.jpg" alt=""/>
+                            <img src="../assets/img/video/video_2014_promo.jpg" alt=""/>
                             <a href="video.php?year=2014"><span class="fa fa-play"></span></a>
                             <h6>2014 - PROMO</h6>
                         </div><!--\\video-feed-->
@@ -205,7 +205,7 @@
 
                     <div class="col-lg-2 col-md-2 col-sm-2">
                         <div class="video-feed">
-                            <img src="assets/img/video/video_2013_festa.jpg" alt=""/>
+                            <img src="../assets/img/video/video_2013_festa.jpg" alt=""/>
                             <a href="video.php?year=2013f"><span class="fa fa-play"></span></a>
                             <h6>2013</h6>
                         </div><!--\\video-feed-->
@@ -213,7 +213,7 @@
 
                     <div class="col-lg-2 col-md-2 col-sm-2">
                         <div class="video-feed">
-                            <img src="assets/img/video/video_2013_promo.jpg" alt=""/>
+                            <img src="../assets/img/video/video_2013_promo.jpg" alt=""/>
                             <a href="video.php?year=2013p"><span class="fa fa-play"></span></a>
                             <h6>2013 - PROMO</h6>
                         </div><!--\\video-feed-->
@@ -225,7 +225,7 @@
                     
                     <div class="col-lg-2 col-md-2 col-sm-2">
                         <div class="video-feed">
-                            <img src="assets/img/video/video_2012_festa.jpg" alt=""/>
+                            <img src="../assets/img/video/video_2012_festa.jpg" alt=""/>
                             <a href="video.php?year=2012"><span class="fa fa-play"></span></a>
                             <h6>2012</h6>
                         </div><!--\\video-feed-->

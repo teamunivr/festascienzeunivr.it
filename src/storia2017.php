@@ -61,7 +61,7 @@
         <div class="row">       	
             <div class="col-lg-12 col-md-12 col-sm-12">
             	<article class="latest-post detail">
-              		<img src="assets/img/storia/2017/gruppo_2017.jpg" alt="dummy">
+              		<img src="../assets/img/storia/2017/gruppo_2017.jpg" alt="dummy">
                   <h2>Festascienze is us</h2>	<p text-indent="100%">
 
 				  	Non so cosa dirvi davvero.<br>

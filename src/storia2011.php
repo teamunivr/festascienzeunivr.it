@@ -66,10 +66,10 @@ Home
         <div class="row">       	
             <div class="col-lg-12 col-md-12 col-sm-12">
             	<article class="latest-post detail">
-              		<img src="assets/img/storia/2011/storia_2011.jpg" alt="dummy">
+              		<img src="../assets/img/storia/2011/storia_2011.jpg" alt="dummy">
                   <h2>Piccole feste crescono...</h2><p text-indent="100%">
                   <!---------------------------------------------------------------------->
-	            <img class="imgLeft"  src="assets/img/storia/2011/gallery_fsu_2011_0042.jpg" alt=""/>
+	            <img class="imgLeft" src="../assets/img/storia/2011/gallery_fsu_2011_0042.jpg" alt=""/>
 					L'edizione 2010 era andata bene per quanto riguarda l'aspetto organizzativo, ma rimanevano ancora alcune cose da migliorare. 
 					Aspetti sostanziali, come quelli economici. 
 					<br />Era necessario rivedere alcune forniture e servizi: se da un lato si era riusciti a terminare la festa senza troppi problemi, il 2010 non aveva lasciato molto spazio alla beneficenza, solo 330&euro; devoluti. 
@@ -77,7 +77,7 @@ Home
 	<br />Il punto verteva nuovamente sul coinvolgere sempre pi&ugrave; persone e per farlo bisognava rendere ancora pi&ugrave; accogliente l'ambiente in serata.
 	<br>
 	<br />
-	    <img class="imgRight"  src="assets/img/storia/2011/gallery_fsu_2011_0143.jpg" alt=""/>
+	    <img class="imgRight" src="../assets/img/storia/2011/gallery_fsu_2011_0143.jpg" alt=""/>
 
 	A dare man forte ai propri sforzi, sull'onda dell'anno precedente, venne scelto un motto che potesse incoraggiare gli studenti a non arrendersi ai risultati ottenuti ma a proseguire sempre imparando dai propri errori: SHOSHOLOZA, una parola sudafricana che significa "andare avanti".
 	<br>
@@ -86,7 +86,7 @@ Home
 	<br />L'idea iniziale che aveva alimentato la festa, l'idea della costruzione di un ambiente universitario pi&ugrave; caldo, accogliente e ospitale iniziava a farsi sentire. La dimostrazione non arriv&ograve; solo dall'ulteriore crescita in numero dei componenti dello STAFF, ma anche dall'input che l'allora preside di facolt&agrave;, Prof. Roberto Giacobazzi, forn&igrave; contattando la stampa universitaria per dare rilievo all'evento.
 	<br>
 	<br />
-		<img class="imgLeft"  src="assets/img/storia/2011/gallery_fsu_2011_0213.jpg" alt=""/>
+		<img class="imgLeft" src="../assets/img/storia/2011/gallery_fsu_2011_0213.jpg" alt=""/>
 	Intervista del Prof. Giacobazzi:
 <br/>        
 	 "Ormai sono 3 anni che si svolge a Scienze la festa di fine anno - spiega il preside Roberto Giacobazzi - &Egrave; una delle pi&ugrave; belle iniziative di aggregazione di studenti voluta, organizzata e gestita perfettamente da loro in totale autonomia, a cui la facolt&agrave; ha contribuito con una spesa minima di 75 euro. La festa di scienze sta crescendo ed in tre anni &egrave; diventata un appuntamento ormai irrinunciabile, che aggrega studenti, docenti, amici, ed abitanti del quartiere di Borgo Roma. Penso che fare universit&agrave; sia non solo offrire ricerca e didattica di alta qualit&agrave;, ma anche saper dare un'identit&agrave; attorno alla quale aggregare i ragazzi per creare una vera comunit&agrave; universitaria, che sappia crescere anche divertendosi. Sono gli anni pi&ugrave; belli e non vanno sprecati!".

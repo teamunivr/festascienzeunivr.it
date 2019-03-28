@@ -66,10 +66,10 @@ Home
         <div class="row">       	
             <div class="col-lg-12 col-md-12 col-sm-12">
             	<article class="latest-post detail">
-              		<img src="assets/img/storia/2010/storia_2010.jpg" alt="dummy">
+              		<img src="../assets/img/storia/2010/storia_2010.jpg" alt="dummy">
                   <h2>La festa del riscatto!</h2><p text-indent="100%">
 				
-	<img class="imgLeft"  src="assets/img/storia/2010/gallery_fsu_2010_0001.jpg" alt=""/>
+	<img class="imgLeft" src="../assets/img/storia/2010/gallery_fsu_2010_0001.jpg" alt=""/>
 	
 	Cercando di far tesoro dall'esperienza precedente, vennero introdotte alcune modifiche sostanziali nell'intero assetto organizzativo:
 	<br />
@@ -79,7 +79,7 @@ Home
 	<br>
 	<br />
 		Quell'anno fu un anno di rinascita vero e proprio. 
-	<img class="imgRight"  src="assets/img/storia/2010/gallery_fsu_2010_0055.jpg" alt=""/>
+	<img class="imgRight" src="../assets/img/storia/2010/gallery_fsu_2010_0055.jpg" alt=""/>
     
 	Bench&egrave; la festa 2009 si fosse spenta prematuramente, le prime ore di attivit&agrave; erano bastate a far incuriosire gli studenti di scienze. 
 	<br />La dimostrazione si ebbe proprio nel 2010 che vide un incremento di partecipazione notevole nello STAFF che pass&ograve; da circa 20 persone a oltre 70. 
@@ -89,7 +89,7 @@ Home
 	Basti pensare alla difficolt&agrave; nella ricerca di nuovi sponsor...i risultati disponibili non erano molto incoraggianti per trovare fondi. 
 	<br >
 	<br/>
-	<img class="imgLeft"  src="assets/img/storia/2010/gallery_fsu_2010_0117.jpg" alt=""/>
+	<img class="imgLeft" src="../assets/img/storia/2010/gallery_fsu_2010_0117.jpg" alt=""/>
 	Tuttavia l'entusiasmo non manc&ograve;, anzi, gli studenti, nuovamente trainati dal solito trio Walter -Wudy- Riviera, Lino Faedda e Paolo -Paolino- Erbizi  tornarono ancora pi&ugrave; carichi e decisi.
 	<br />
 	</p>

@@ -12,7 +12,7 @@
 <html>
 	
     <head>
-    	<?php getHTMLHead('Storia 2015'); ?>
+    	<?php getHTMLHead('Storia 2014'); ?>
         <style type="text/css">
 			.imgLeft {float:left !important; padding: 0 15px 0 0 !important;width: 33% !important;}
 			.imgRight{float:right !important; padding: 15px 0 0 15px !important;width: 33% !important;}
@@ -47,12 +47,12 @@ Home
 	<div class="container">
     	<div class="row">
        		<div class="col-lg-6 col-md-6 col-sm-6">
-				<h1>Storia 2015</h1>
+				<h1>Storia 2014</h1>
            </div>
            <div class="col-lg-6 col-md-6 col-sm-6">
            	<ul>
               		<li><a href="index.php">Home</a></li>
-                  <li><a href="#">Storia 2015</a></li>
+                  <li><a href="#">Storia 2014</a></li>
               </ul>
            </div>
        	</div>
@@ -66,53 +66,49 @@ Home
         <div class="row">       	
             <div class="col-lg-12 col-md-12 col-sm-12">
             	<article class="latest-post detail">
-              		<img src="assets/img/storia/2015/storia_2015.jpg" alt="dummy">
-                  <h2>Una grande famiglia in festa!</h2>	<p text-indent="100%">
+              		<img src="../assets/img/storia/2014/storia_2014.jpg" alt="dummy">
+                  <h2>Ci crediamo ancora!</h2>	<p text-indent="100%">
 
                   <!---------------------------------------------------------------------->
-				<img class="imgLeft"  src="assets/img/storia/2015/magnifici6.jpg" alt=""/>
+				<img class="imgLeft" src="../assets/img/storia/2014/DSC_0094.JPG" alt=""/>
 
-Il 2015 &egrave stato l'anno del consolidamento e del tentato passaggio di testimone.
-L'organizzazione, affidata sempre al gruppo collaudato dei Magnifici 6 (Lino, Paolino, Ale Ago, Malfa, Ale Fin e Diego), &egrave stata impeccabile sotto tutti i punti di vista.
-L'organigramma dello staff organizzativo &egrave rimasto uguale a quello del 2014, per&ograve con l'obbiettivo di aggiungere per ogni gruppo almeno una nuova leva "promettente per le future feste".
+Il 2014 &egrave; stato l'anno di un importante cambiamento per la Festa di Scienze: il suo ideatore e fondatore, dopo essersi laureato, ha passato le redini dell'organizzazione al consolidato ed affiatato gruppo composto da Lino, Paolino, Ale Ago, Diego, Malfa e Ale Fin (I Magnifici Sei).
 <br>
 <br/>
-Il motto "Let's be Ohana", che ha contraddistinto lo staff del 2015, &egrave stato ideato e pensato per esprimere il desiderio di unire gli studenti dello Staff in un'unica grande famiglia e creare un ambiente dove sono le persone e non i ruoli a fare la differenza.
+Gi&agrave; la festa del 2013 aveva avuto un successo straordinario sotto tutti i punti di vista (incasso, beneficienza, soddisfazioni personali), di conseguenza le aspettative per il 2014 risultavano essere numerose e l'obiettivo che prefisso era quello di dimostrare di essere all'altezza della grande responsabilit&agrave; affidata al gruppo.
 <br>
-Assieme al motto lo staff organizzativo ha scelto all'unanimit&agrave anche il logo delle maglie STAFF:
-<br>
-il Cubo di Rubik!!
-<br>
-Il cubo raffigurava per ogni quadratino il colore della maglia degli anni scorsi dove guarda caso il numero di facce (6) era lo stesso del numero di feste passate.
-Il significato profondo &egrave proprio quello del gioco che viene vinto solo se ogni quadratino (quindi ogni componente dello staff) va al suo posto (d&agrave il suo contributo) per completare ogni lato di uno stesso colore (agendo proprio per lo scopo della nostra famiglia: vincere uniti!).
-A tutto lo staff &egrave piaciuto perch&eacute aveva anche un senso maledettamente nerd!
+Le idee rimasero le stesse degli anni precedenti, ponendo come aspirazione principale l'idea di continuare a credere in un ambiente universitario sempre aperto, accogliente ed ospitale.
+Per questo motivo &egrave; stato scelto il motto " Don't Stop Believin' " associato al logo creato per le maglie raffigurante una catena, simbolo della voglia di rimanere uniti, e di continuare a mantenere il benessere e il clima raggiunti finora.
 <br>
 <br/>
-Si sono tenute delle formule vincenti e attrattive come l'angolo foto e l'area ricerca nel ''Computer Science Park", che ha riscosso ancor pi&ugrave successo rispetto al 2014. In tale zona era presente un itinerario a cielo aperto in cui ogni partecipante assisteva alle esposizioni dei progetti di ricerca appartenenti al Dipartimento di Informatica e al Dipartimento di Biotecnologie.
+Allo staff organizzativo vennero aggiunte la commissione Pubblicit&agrave; e la commissione Sito web, grazie alla quale nel 2014 &egrave; nato il sito web ufficiale della Festa di Scienze.
+<br>
+Le iscrizioni allo staff ebbero un successo eccezionale: 22 furono i componenti nell'organizzativo e 96 nell'esecutivo. Le vendite delle pre-consumazioni superarono del doppio i numeri dell'anno precedente, aumentando cos&igrave; le aspettative pre-festa.
 <br>
 <br/>
-L'evento &egrave stato pubblicizzato dalla radio Universitaria con un'intervista fatta a Lino Faedda, uno degli organizzatori, e dal magazine dell'Universit&agrave. 
+<img class="imgRight" src="../assets/img/storia/2014/gallery_fsu_2012_0332.png" alt=""/>
+Tra le ulteriori novit&agrave; per la serata della festa si possono ricordare:
 <br>
 <br/>
-<img class="imgRight"  src="assets/img/storia/2015/area_ricerca.jpg" alt=""/>
-In futuro si potranno ricordare i record guardando un po' i numeri raggiunti nel 2015, tra tutti il ricavato devoluto in beneficenza che &egrave aumentato rispetto al 2014, le card delle preconsumazioni vendute, pi&ugrave di 300 studenti che hanno votato la locandina (con un tema nerd) della festa e lo staff formato da 110 studenti!
+- la nuova AREA RICERCA, situata nella zona del "Computer Science Park", dove gli ospiti potevano seguire un percorso allestito con esposizioni di progetti di ricerca del Dipartimento di Informatica e del Dipartimento di Biotecnologie;
 <br>
 <br/>
-La festa del 2015 ha segnato una svolta perch&eacute &egrave stata l'ultima in veste di organizzatori per i "Magnifici 6", tutti prossimi alla laurea, che hanno lasciato le redini dell'organizzazione di una festa che ormai ha catturato il cuore di tutti, soprattutto quello degli studenti dello Staff e dell'area di Scienze e Ingegneria.
+- l'introduzione dell'angolo foto, che si &egrave; rivelato essere una perfetta attrazione, riscuotendo un enorme successo;
 <br>
 <br/>
-Il parcheggio nella sera del 5 giugno 2015 &egrave stato avvolto da un'atmosfera incantevole che ha unito tutti e che i "Magnifici 6" sperano di ritrovare nell'eventuale festa del 2016.
+- il concorso Scielfie, indetto nel mese di Maggio, a cui ogni studente di Scienze poteva partecipare con un selfie. Nel corso della serata vennero premiati i selfie pi&ugrave; belli ed originali.
 <br>
 <br/>
-We don't stop believin...so let's be ohana!
-<br>
-This is not the end just the beginning of a new era...because Noi Siamo Scienze!
+L'evento fu pubblicizzato dalla radio Universitaria con un intervista fatta ad uno degli organizzatori e dal magazine dell'Universit&agrave;.
 <br>
 <br/>
-<a href="http://www.fuoriaulanetwork.net/podcast/lino-faedda-festa-di-scienze-2015/" >Intervista a Lino Faedda</a>
+La festa si svolse nel migliore dei modi e dopo aver chiuso i cancelli, il 6 giugno 2014 divent&ograve; un giorno da non poter dimenticare! Il ricavato devoluto in beneficienza fu il doppio del 2013 e il ricordo di quella serata rimase impresso nella mente di tutti coloro che resero magica la festa di Scienze 2014.
 <br>
 <br/>
-<a href="http://www.univrmagazine.it/sito/vedi_articolo.php?id=3231" >Articolo su Univr Magazine</a>
+<a href="http://www.fuoriaulanetwork.net/podcast/lino-faedda-festa-di-scienze/" >Link all'intervista</a>
+<br>
+<br/>
+<a href="http://www.univrmagazine.it/sito/vedi_articolo.php?id=2466" >Link all'articolo</a>
                   
                   
                   <!---------------------------------------------------------------------->

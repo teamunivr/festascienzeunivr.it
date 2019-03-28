@@ -66,7 +66,7 @@ Home
         <div class="row">       	
             <div class="col-lg-12 col-md-12 col-sm-12">
             	<article class="latest-post detail">
-              		<img src="assets/img/storia/2009/storia_2009.jpg" alt="dummy">
+              		<img src="../assets/img/storia/2009/storia_2009.jpg" alt="dummy">
                   <h2>La nascita di un evento...</h2><p text-indent="100%">
 
                   <!---------------------------------------------------------------------->
@@ -76,7 +76,7 @@ Home
 	<br />Spinto dal suo entusiasmo e dalla consapevolezza che un ambiente universitario pi&ugrave; caldo e accogliente avrebbe potuto migliorare la qualit&agrave; della vita universitaria a 360 gradi, il neo eletto rappresentante si mise subito all'opera per cercare di abbattere il "muro di ghiaccio" che divideva rappresentanti e studenti.
 	<br >
 	<br/>
-	<img class="imgLeft"  src="assets/img/storia/2009/gallery_fsu_2009_0016.jpg" alt=""/>
+	<img class="imgLeft" src="../assets/img/storia/2009/gallery_fsu_2009_0016.jpg" alt=""/>
 	Wudy era convinto che il problema fosse legato a due fattori primari:
 	<br />
 		* In primo luogo le scarse opportunit&agrave; d'interazione che l'universit&agrave; lasciava: essendo infatti dislocata sia dal centro d'Ateneo che dal centro della citt&agrave;, scienze ha sempre sofferto la carenza di locali con una vita universitaria (notturna) attiva;
@@ -101,7 +101,7 @@ Bench&egrave; la burocrazia pareva meno complicata del previsto, rimanevano da d
 Con l'intento di velocizzare la realizzazione, il progetto venne condiviso attraverso incontri studenteschi negli orari extra-didattici al termine delle lezioni. 
 Di 2000 iscritti, solo una ventina partecipava con costanza agli appuntamenti. 
 <br />
-<img class="imgRight"  src="assets/img/storia/2009/gallery_fsu_2009_0003.jpg" alt=""/>
+<img class="imgRight" src="../assets/img/storia/2009/gallery_fsu_2009_0003.jpg" alt=""/>
 Molti si limitavano ad aiuti pratici di poca responsabilit&agrave;, ma due in particolare, gi&agrave; compagni di corso del rappresentante, si distinsero per l'interesse e la dedizione: l'amico sardo Lino Faedda, l'amico veronese Paolo -Paolino- Erbizi.
 <br>
 <br />

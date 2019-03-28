@@ -107,8 +107,8 @@
                         <div class="album-detail album-purchase">
                             <a><h3>Locandina 2017</h3></a>
                         </div>
-                        <a href="assets/img/info/locandina2016.jpg" target="_blank">
-                            <img src="assets/img/locandina.jpg" width="100%" />
+                        <a href="../assets/img/info/locandina2016.jpg" target="_blank">
+                            <img src="../assets/img/locandina.jpg" width="100%" />
                         </a>
                     </article>
 					<!--

@@ -29,7 +29,7 @@ if (isset($_GET["year"]))
             outline: none; 
             height: 38px;  /* Height of image */
             width: 38px; /* Width of image */
-            background: url(assets/img/icon/top.png) no-repeat;
+            background: url(../assets/img/icon/top.png) no-repeat;
             max-width: 100%;
         }
         

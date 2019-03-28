@@ -48,7 +48,7 @@ History
 
             <div class="col-lg-4 col-md-4 col-sm-4">
                 <div class="event-feed latest">
-                	<img src="assets/img/storia/storia_2017_menu.jpg" alt="">
+                	<img src="../assets/img/storia/storia_2017_menu.jpg" alt="">
                     <div class="date">
                         <span class="day">9</span>
                         <span class="month">GIU</span>
@@ -60,7 +60,7 @@ History
             
 			<div class="col-lg-4 col-md-4 col-sm-4">
                 <div class="event-feed latest">
-                	<img src="assets/img/storia/storia_2016.jpg" alt="">
+                	<img src="../assets/img/storia/storia_2016.jpg" alt="">
                     <div class="date">
                         <span class="day">10</span>
                         <span class="month">GIU</span>
@@ -72,7 +72,7 @@ History
             
 				<div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="event-feed latest">
-                    	<img src="assets/img/storia/storia_2015.jpg" alt="">
+                    	<img src="../assets/img/storia/storia_2015.jpg" alt="">
                         <div class="date">
                             <span class="day">5</span>
                             <span class="month">GIU</span>
@@ -84,7 +84,7 @@ History
 				
                 <div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="event-feed latest">
-                    	<img src="assets/img/storia/storia_2014.jpg" alt="">
+                    	<img src="../assets/img/storia/storia_2014.jpg" alt="">
                         <div class="date">
                             <span class="day">6</span>
                             <span class="month">GIU</span>
@@ -96,7 +96,7 @@ History
 			
                 <div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="event-feed latest">
-                    	<img src="assets/img/storia/storia_2013.jpg" alt="">
+                    	<img src="../assets/img/storia/storia_2013.jpg" alt="">
                         <div class="date">
                             <span class="day">7</span>
                             <span class="month">GIU</span>
@@ -108,7 +108,7 @@ History
                 
                 <div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="event-feed latest">
-                    	<img src="assets/img/storia/storia_2012.jpg" alt="">
+                    	<img src="../assets/img/storia/storia_2012.jpg" alt="">
                         <div class="date">
                             <span class="day">8</span>
                             <span class="month">GIU</span>
@@ -121,7 +121,7 @@ History
                 
                 <div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="event-feed latest">
-                    	<img src="assets/img/storia/storia_2011.jpg" alt="">
+                    	<img src="../assets/img/storia/storia_2011.jpg" alt="">
                         <div class="date">
                             <span class="day">10</span>
                             <span class="month">GIU</span>
@@ -134,7 +134,7 @@ History
                 
                 <div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="event-feed latest">
-                    	<img src="assets/img/storia/storia_2010.jpg" alt="">
+                    	<img src="../assets/img/storia/storia_2010.jpg" alt="">
                         <div class="date">
                             <span class="day">11</span>
                             <span class="month">GIU</span>
@@ -146,7 +146,7 @@ History
                 
                 <div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="event-feed latest">
-                    	<img src="assets/img/storia/storia_2009.jpg" alt="">
+                    	<img src="../assets/img/storia/storia_2009.jpg" alt="">
                         <div class="date">
                             <span class="day">19</span>
                             <span class="month">GIU</span>
