@@ -52,9 +52,8 @@ Costi
     <div class="container">
         <div class="row">
 
-            <div class="col-lg-6 col-md-6 col-sm-6">
+            <!-- <div class="col-lg-6 col-md-6 col-sm-6">
                 <article class="latest-post detail">
-                    <!--<h3>MUSICA</h3>-->
                     <div class="album-detail album-purchase">
                         <a><h3>IN PRECONSUMAZIONE</h3></a>
                     </div>
@@ -73,7 +72,6 @@ Costi
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <article class="latest-post detail">
-                    <!--<h3>STAND</h3>-->
                     <div class="album-detail album-purchase">
                         <a><h3>IN SERATA</h3></a>
                     </div>
@@ -104,15 +102,15 @@ Costi
                     </ul>
                 </article>
             </div>
-        </div>
+        </div> -->
 
         <div class="col-lg-12 col-md-12 col-sm-12">
             <article class="latest-post detail">
                 <center>
                     <div class="album-detail album-purchase">
-                        <a><h2>PROMOZIONI</h2></a>
+                        <a><h2>STAY TUNED</h2></a>
                     </div>
-                    <ul class="category">
+                    <!-- <ul class="category">
                         <div class="album-detail album-purchase">
                             <a><h3 id="pioggia">PIOGGIA ALCOLICA</h3></a>
                         </div>
@@ -142,17 +140,7 @@ Costi
                         <li><a><h3>Fate un giro in Ca' Vignal e prendete qualche panino in pre-consumazione!</h3></a>
                         </li>
                         <li><a><h2>NON VE NE PENTIRETE!</h2></a></li>
-                    </ul>
-
-                    <!--ul class="category">
-                                   <div class="album-detail album-purchase">
-                                    <a><h3 id="dolcinovita">DOLCISSIME NOVIT&Aacute;</h3></a>
-                                    </div>
-                        <li><a><h4>in serata, dopo un buon panino o una pizzetta</h4></a></li>
-                        <li><a><h3>cosa manca?</h3></a></li>
-                        <li><a><h2>Dolci sorprese arriveranno...</h2></a></li>
-                    </ul-->
-
+                    </ul> -->
                 </center>
             </article>
         </div>

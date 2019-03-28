@@ -19,9 +19,9 @@
     <div class="row">
         <div class="col-lg-8 col-md-8 col-sm-8">
             <article>
-                <h1>FESTASCIENZE WANTS YOU</h1>
+                <h1>STAY TUNED</h1>
 
-                <p>
+                <!-- <p>
                     L'organizzazione di Festa Scienze 2018 è iniziata! Come di consueto
                     siamo alla ricerca di gente volenterosa che abbia voglia di spendere una delle sue serate
                     per contribuire a creare qualcosa di grande! L'anno scorso eravamo in 128 e quest'anno non vogliamo
@@ -138,7 +138,7 @@
 
                 <h2>#festascienzeunivr #festascienzeiscoming</h2>
 
-                <br><br>
+                <br><br> -->
             </article>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-4">
