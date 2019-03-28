@@ -38,9 +38,9 @@ getHTMLSuperHead();
                 <article class="latest-post detail">
                     <center>
                         <div class="album-detail album-purchase">
-                            <a><h2>INGRESSO LIBERO</h2></a>
+                            <a><h2>STAY TUNED</h2></a>
                         </div>
-                        <h2>Programma serata</h2>
+                        <!-- <h2>Programma serata</h2>
                         <ul class="category">
                             <li><a><h3><span class="fa fa-clock-o"></span> 18.30 Apertura cancelli</h3></a></li>
                             <li><a><h3><span class="fa fa-clock-o"></span> 19.00 - 20.30 Shosho spritz</h3></a></li>
@@ -48,11 +48,11 @@ getHTMLSuperHead();
                             <li><a><h3><span class="fa fa-clock-o"></span> 22.00 Inizio live "Muppets Cover Band"</h3>
                                 </a></li>
                             <li><a><h3><span class="fa fa-clock-o"></span> 1.00 Chiusura cancelli</h3></a></li>
-                        </ul>
+                        </ul> -->
 
                     </center>
                 </article>
-            </div>
+            <!-- </div>
             <div class="col-lg-4 col-md-4 col-sm-4">
                 <article class="latest-post detail">
                     <div class="album-detail album-purchase">
@@ -110,19 +110,8 @@ getHTMLSuperHead();
                     </div>
                     <a href="../assets/img/info/locandina2016.jpg" target="_blank">
                         <img src="../assets/img/locandina.jpg" width="100%"/>
-                    </a>
+                    </a> -->
                 </article>
-                <!--
-                <div class="row">
-                    <div class="col-lg12 col-md-12 col-sm-12">
-                        <center>
-                            <ul class="category">
-                                <li><a href="assets/volantino2016.pdf" target="_blank"><h3>Scarica il volantino della Festa</h3></a></li>
-                            </ul>
-                        </center>
-                    </div>
-                </div>
-                -->
             </div>
         </div>
 </section>

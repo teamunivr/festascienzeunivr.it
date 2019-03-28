@@ -151,7 +151,6 @@ include 'assets/php/template_function.php';
                 <!--a href="/festa2017.php"><h3 style="text-align: center;">Tutti i dettagli dell'evento qui</h3></a-->
                 <br>
             </div>
-            <!--col-lg-4 col-md-4 col-sm-4-->
 
             <div class="col-lg-4 col-md-4 col-sm-4">
                 <h1>Prossimi eventi</h1>
@@ -165,11 +164,6 @@ include 'assets/php/template_function.php';
                     <p>Festa di fine anno</p>
                 </div>
             </div>
-
-            <!--<div class="more-events">	
-                <a href="#"><b class=" fa fa-calendar"></b>Browse more events</a>
-                <div class="has"></div>
-            </div>--><!--\\more-events-->
 
             <div class="clearfix"></div>
 

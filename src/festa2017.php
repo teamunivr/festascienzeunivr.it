@@ -19,11 +19,11 @@
     <div class="row">
         <div class="col-lg-8 col-md-8 col-sm-8">
             <article>
-                <h1>Festa di Fine Anno 2017</h1>
+                <h1>Festa di Fine Anno 2019</h1>
 
-                <h2>TREMATE!! Ritorna la Festa di Fine Anno, giunta quest'anno alla Nona Edizione!!</h2>
+                <h2>STAY TUNED</h2>
 
-                <h3>Presso il piazzale dell'Area di Scienze e Ingegneria dalle ore 18.30 alle 01:00
+                <!-- <h3>Presso il piazzale dell'Area di Scienze e Ingegneria dalle ore 18.30 alle 01:00
                     <h3>
 
                         <h2>INGRESSO LIBERO e APERTO A TUTTI!!</h2>
@@ -106,7 +106,7 @@
 
                         <h3>IL RICAVATO DELLA FESTA SARA’ DEVOLUTO IN BENEFICENZA ALLE ASSOCIAZIONE FIBROSI CISTICA</h3>
 
-                        <h2>Non mancate e portate tutti gli amici che volete!</h2>
+                        <h2>Non mancate e portate tutti gli amici che volete!</h2> -->
 
             </article>
         </div>
