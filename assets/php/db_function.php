@@ -36,7 +36,7 @@ function connect() {
  * Funzione di disconnessione dal DB
  * @param $connection
  */
-function disconnect($connection): void {
+function disconnect($connection) {
     mysqli_close($connection);
     return;
 }
