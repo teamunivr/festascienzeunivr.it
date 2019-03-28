@@ -45,7 +45,10 @@ include 'assets/php/template_function.php';
     <div class="container">
         <div class="row">
             <?php
-            getHTMLSponsor();
+            $connection = connect();
+            $query = 'SELECT * FROM Sponsor WHERE anno = ' . $year . ' ORDER BY ammontare DESC, nome ASC';
+            $result = mysqli_query($connection, $query);
+            getHTMLSponsor($result);
             ?>
         </div>
     </div>
