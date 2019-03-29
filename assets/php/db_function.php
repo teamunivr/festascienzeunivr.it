@@ -1,7 +1,7 @@
 <?php
 /* Info di connessione */
 
-$config = parse_ini_file('/config.ini');
+$config = parse_ini_file('assets/config.ini');
 $database = $config['database'];
 $host = $config['host'];
 $username = $config['username'];
