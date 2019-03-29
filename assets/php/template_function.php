@@ -212,6 +212,15 @@ function getHTMLHeader() {
                                     <div class="yamm-content">
                                         <div class="row">
 
+                                        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                                                <div class="video-feed">
+                                                    <img src="assets/img/gallery/gallery_2018.jpg" alt="2018"/>
+                                                    <a href="gallery.php?year=2018"><span
+                                                                class="fa fa-picture-o"></span></a>
+                                                    <h5>2018</h5>
+                                                </div>
+                                            </div>
+
                                             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                                                 <div class="video-feed">
                                                     <img src="assets/img/gallery/gallery_2017.jpg" alt="2017"/>

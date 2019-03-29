@@ -146,8 +146,15 @@ include 'assets/php/template_function.php';
             <div class="col-lg-8 col-md-8 col-sm-8">
                 <h1>FESTASCIENZE 2019</h1>
                 <br>
-                <a><img style="max-width: 100%; display: block; margin: auto;"
-                        src="/assets/img/paginaincostruzione.jpg"></a>
+                <article class="latest-post detail">
+                    <center>
+                        <div class="album-detail album-purchase">
+                            <a><h2>WE'RE WORKING FOR YOU</h2></a>
+                        </div>
+                    </center>
+                </article>
+                <!-- <a><img style="max-width: 100%; display: block; margin: auto;"
+                        src="/assets/img/paginaincostruzione.jpg"></a> -->
                 <!--a href="/festa2017.php"><h3 style="text-align: center;">Tutti i dettagli dell'evento qui</h3></a-->
                 <br>
             </div>

@@ -5,7 +5,7 @@ if (isset($_GET["year"]))
 getHTMLSuperHead();
 
 // per aggiungere foto anno nuovo, aggiungere anno all'array!
-$years = array("2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009");
+$years = array("2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009");
 
 if (isset($_GET["year"]) && in_array($year, $years)) {
     /* Di seguito il codice per la visualizzazione della galleria */
