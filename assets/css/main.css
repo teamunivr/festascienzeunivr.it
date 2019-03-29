@@ -158,13 +158,12 @@ ul.navbar-nav {
 }
 .navbar-nav > li > a {
 	font-family: 'Oswald', sans-serif;
-	padding: 0;
 	outline: none !important;
 	overflow: hidden;
-	padding-top:50px;
-	padding-bottom:30px;
-	padding-left:8px;
-	padding-right:10px;
+	padding-top: 50px;
+	padding-right: 0px;
+	padding-left: 8px;
+	padding-bottom: 30px;
 }
 
 .navbar-default .dropdown-menu > li > a{
@@ -2515,7 +2514,7 @@ footer h4 span{
 }
 
 .navbar-nav > li > a {
-	padding-left:13px;
+	padding-left:0px;
 	padding-right:13px;
 }
 

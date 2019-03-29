@@ -1,9 +1,11 @@
 <?php
 /* Info di connessione */
-$host = '62.149.150.212';
-$username = 'Sql748250';
-$password = 'exeej4bu85';
-$database = 'Sql748250_1';
+
+$config = parse_ini_file('/config.ini');
+$database = $config['database'];
+$config['host'];
+$config['username'];
+$config['password'];
 
 /* Variabili del sito */
 $site = 'http://www.festascienzeunivr.it';    //Indirizzo del sito
@@ -17,13 +19,12 @@ $instagram = 'http://instagram.com/festascienzeunivr/';
 $youtube = 'https://www.youtube.com/user/festascienzeunivr';
 
 function connect() {
-    global $host, $username, $password, $database;
-
+    global $database, $host, $username, $password;
     $connection = null;
     if ($connection)
         return true;
 
-    if (!($connection = mysqli_connect($host, $username, $password)))
+    if (!($connection = mysqli_connect($host, $username, $password, $database)))
         die("Connessione non riuscita: " . mysqli_error($connection));
 
     if (!($confirm = mysqli_select_db($connection, $database)))
