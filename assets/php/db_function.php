@@ -3,9 +3,9 @@
 
 $config = parse_ini_file('/config.ini');
 $database = $config['database'];
-$config['host'];
-$config['username'];
-$config['password'];
+$host = $config['host'];
+$username = $config['username'];
+$password = $config['password'];
 
 /* Variabili del sito */
 $site = 'http://www.festascienzeunivr.it';    //Indirizzo del sito
