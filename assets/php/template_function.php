@@ -304,7 +304,7 @@ function getHTMLHeader() {
                         <li><a href="info.php">Info</a></li>
                         <li><a href="costi.php">Prezzi</a></li>
                         <li><a href="sponsor.php">Sponsor </a></li>
-                        <!--<li><a href="arearicerca.php" >A. Ricerca</a></li>-->
+                        <li><a href="arearicerca.php" >Area Ricerca</a></li>
                         <li><a href="contatti.php">Contatti </a></li>
                     </ul>
                 </div>
