@@ -18,9 +18,7 @@ include 'assets/php/template_function.php';
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12">
                 <article class="latest-post detail">
-                        <div class="album-detail album-purchase" align="center">
-                            <a><h2>Area Ricerca 2019</h2></a>
-                        </div>
+                    <a><h2>Area Ricerca 2019</h2></a>
                 </article>
             </div>
         </div>
