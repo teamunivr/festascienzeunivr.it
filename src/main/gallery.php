@@ -1,5 +1,5 @@
 <?php
-include 'assets/php/template_function.php';
+include 'assets/utils/template_function.utils';
 if (isset($_GET["year"]))
     $year = $_GET["year"];
 getHTMLSuperHead();
@@ -29,7 +29,7 @@ if (isset($_GET["year"]) && in_array($year, $years)) {
                 outline: none;
                 height: 38px; /* Height of image */
                 width: 38px; /* Width of image */
-                background: url(../assets/img/icon/top.png) no-repeat;
+                background: url(../../assets/img/icon/top.png) no-repeat;
                 max-width: 100%;
             }
 

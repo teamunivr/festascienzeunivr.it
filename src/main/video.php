@@ -1,5 +1,5 @@
 <?php
-include 'assets/php/template_function.php';
+include 'assets/utils/template_function.utils';
 $year = $_GET["year"];
 
 // agggiungere video qui

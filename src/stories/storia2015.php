@@ -5,7 +5,7 @@
 -->
 
 <?php //Include delle librerie
-include 'assets/php/template_function.php';
+include 'assets/utils/template_function.utils';
 ?>
 
 <?php getHTMLSuperHead(); ?>
@@ -59,7 +59,7 @@ Home
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <ul>
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="../main/index.php">Home</a></li>
                     <li><a href="#">Storia 2015</a></li>
                 </ul>
             </div>
@@ -74,12 +74,12 @@ Home
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12">
                 <article class="latest-post detail">
-                    <img src="../assets/img/storia/2015/storia_2015.jpg" alt="dummy">
+                    <img src="../../assets/img/storia/2015/storia_2015.jpg" alt="dummy">
                     <h2>Una grande famiglia in festa!</h2>
                     <p text-indent="100%">
 
                         <!---------------------------------------------------------------------->
-                        <img class="imgLeft" src="../assets/img/storia/2015/magnifici6.jpg" alt=""/>
+                        <img class="imgLeft" src="../../assets/img/storia/2015/magnifici6.jpg" alt=""/>
 
                         Il 2015 &egrave stato l'anno del consolidamento e del tentato passaggio di testimone.
                         L'organizzazione, affidata sempre al gruppo collaudato dei Magnifici 6 (Lino, Paolino, Ale Ago,
@@ -118,7 +118,7 @@ Home
                         Faedda, uno degli organizzatori, e dal magazine dell'Universit&agrave.
                         <br>
                         <br/>
-                        <img class="imgRight" src="../assets/img/storia/2015/area_ricerca.jpg" alt=""/>
+                        <img class="imgRight" src="../../assets/img/storia/2015/area_ricerca.jpg" alt=""/>
                         In futuro si potranno ricordare i record guardando un po' i numeri raggiunti nel 2015, tra tutti
                         il ricavato devoluto in beneficenza che &egrave aumentato rispetto al 2014, le card delle
                         preconsumazioni vendute, pi&ugrave di 300 studenti che hanno votato la locandina (con un tema

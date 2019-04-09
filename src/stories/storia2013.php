@@ -5,14 +5,14 @@
 -->
 
 <?php //Include delle librerie
-include 'assets/php/template_function.php';
+include 'assets/utils/template_function.utils';
 ?>
 
 <?php getHTMLSuperHead(); ?>
 <html>
 
 <head>
-    <?php getHTMLHead('Storia 2014'); ?>
+    <?php getHTMLHead('Storia 2013'); ?>
     <style type="text/css">
         .imgLeft {
             float: left !important;
@@ -55,12 +55,12 @@ Home
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6">
-                <h1>Storia 2014</h1>
+                <h1>Storia 2013</h1>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <ul>
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="#">Storia 2014</a></li>
+                    <li><a href="../main/index.php">Home</a></li>
+                    <li><a href="#">Storia 2013</a></li>
                 </ul>
             </div>
         </div>
@@ -74,73 +74,69 @@ Home
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12">
                 <article class="latest-post detail">
-                    <img src="../assets/img/storia/2014/storia_2014.jpg" alt="dummy">
-                    <h2>Ci crediamo ancora!</h2>
+                    <img src="../../assets/img/storia/2013/storia_2013.jpg" alt="dummy">
+                    <h2>Lacrime..di gioia!</h2>
                     <p text-indent="100%">
 
                         <!---------------------------------------------------------------------->
-                        <img class="imgLeft" src="../assets/img/storia/2014/DSC_0094.JPG" alt=""/>
+                        <img class="imgLeft" src="../../assets/img/storia/2013/CambioTestimone.jpg" alt=""/>
 
-                        Il 2014 &egrave; stato l'anno di un importante cambiamento per la Festa di Scienze: il suo
-                        ideatore e fondatore, dopo essersi laureato, ha passato le redini dell'organizzazione al
-                        consolidato ed affiatato gruppo composto da Lino, Paolino, Ale Ago, Diego, Malfa e Ale Fin (I
-                        Magnifici Sei).
+                        Bench&egrave; dopo 5 anni di esperienza molte dinamiche "organizzative" fossero ben collaudate,
+                        la sfida maggiore del 2013 risiedeva nel "passaggio di testimone" a livello organizzativo in
+                        vista della vicina laurea di Wudy (al secolo Walter Riviera), "padre fondatore" dell'evento. Per
+                        certi versi si sarebbe potuto scegliere di mantenere le cose invariate rispetto agli anni
+                        precedenti, fino a laurea conseguita, ma l'idea era quella di sfruttare il 2013 come anno di
+                        collaudo per lo staff organizzativo che avrebbe poi proseguito l'attivit&agrave; nel 2014.
+                        Rimanendo quindi coerenti con la scelta del 2012, lo staff organizzativo acquis&igrave; maggiori
+                        responsabilit&agrave; sia in termini di incarichi che di decisioni. Tra le nuove "locomotive"
+                        delle varie commissioni ricordiamo: Alessandra Fin, Alex Malfatti, Lara Montresor e gli
+                        immancabili Lino Faedda e Paolo -Paolino- Erbizi.
                         <br>
-                        <br/>
-                        Gi&agrave; la festa del 2013 aveva avuto un successo straordinario sotto tutti i punti di vista
-                        (incasso, beneficienza, soddisfazioni personali), di conseguenza le aspettative per il 2014
-                        risultavano essere numerose e l'obiettivo che prefisso era quello di dimostrare di essere
-                        all'altezza della grande responsabilit&agrave; affidata al gruppo.
                         <br>
-                        Le idee rimasero le stesse degli anni precedenti, ponendo come aspirazione principale l'idea di
-                        continuare a credere in un ambiente universitario sempre aperto, accogliente ed ospitale.
-                        Per questo motivo &egrave; stato scelto il motto " Don't Stop Believin' " associato al logo
-                        creato per le maglie raffigurante una catena, simbolo della voglia di rimanere uniti, e di
-                        continuare a mantenere il benessere e il clima raggiunti finora.
+                        Come tutti i gruppi che si rispettino, anche in quell'occasione non mancarono attimi di attrito
+                        o sconforto. Attimi che una volta lasciati decantare, non ebbero conseguenze spiacevoli sulla
+                        realizzazione finale, anzi. La festa riusc&igrave; dal punto di vista pratico, confermando le
+                        aspettative iniziali dello STAFF organizzativo che si dimostr&ograve; "pronto" per l'incarico
+                        dell'anno seguente ed inizi&ograve; a mostrare i molteplici vantaggi dell'avere distribuito
+                        l'organizzazione a pi&ugrave; persone. Lo stand della birra venne infatti ridimensionato
+                        piazzando due gazebi anzich&egrave; uno, collegati da un ulteriore banco per il servizio. Venne
+                        creata una nuova figura organizzativa: il "capo-cantiere", ruolo che doveva coordinare le
+                        attivit&agrave; di allestimento e smantellamento del parcheggio, sapientemente interpretato
+                        allora da Marco Canteri.
+                        <img class="imgRight" src="../../assets/img/storia/2013/StadBirre.jpg" alt=""/>
                         <br>
-                        <br/>
-                        Allo staff organizzativo vennero aggiunte la commissione Pubblicit&agrave; e la commissione Sito
-                        web, grazie alla quale nel 2014 &egrave; nato il sito web ufficiale della Festa di Scienze.
                         <br>
-                        Le iscrizioni allo staff ebbero un successo eccezionale: 22 furono i componenti
-                        nell'organizzativo e 96 nell'esecutivo. Le vendite delle pre-consumazioni superarono del doppio
-                        i numeri dell'anno precedente, aumentando cos&igrave; le aspettative pre-festa.
+                        Per quanto riguarda l'intrattenimento col pubblico, visto il successo e l'apprezzamento della
+                        sfilata del 2011, venne proposta un iniziativa nuova: le premiazioni del concorso "MISS e MISTER
+                        SCIENZE". Concorso iniziato qualche mese prima all'interno dei dipartimenti, nato da un idea di
+                        Beatrice Mortoni affiancata nella realizzazione da Mattia Paoli e Lino Faedda.
                         <br>
-                        <br/>
-                        <img class="imgRight" src="../assets/img/storia/2014/gallery_fsu_2012_0332.png" alt=""/>
-                        Tra le ulteriori novit&agrave; per la serata della festa si possono ricordare:
                         <br>
-                        <br/>
-                        - la nuova AREA RICERCA, situata nella zona del "Computer Science Park", dove gli ospiti
-                        potevano seguire un percorso allestito con esposizioni di progetti di ricerca del Dipartimento
-                        di Informatica e del Dipartimento di Biotecnologie;
+                        Per molti, la maggior parte probabilmente, la festa fil&ograve; liscia tra i brindisi e le
+                        risate come ogni altro anno, ma per alcuni studenti dello STAFF quella festa rappresent&ograve;
+                        un cocktail di emozioni incredibili, un mix tra felicit&agrave; e soddisfazione per l'ennessima
+                        conferma di un evento ben riuscito accompagnate da un retrogusto di malinconia per la fine del
+                        "capitolo-Wudy".<br>
+                        Questa sensazione inizi&ograve; a farsi sentire qualche mese prima rispetto alla festa...e fu
+                        proprio questo aspetto a decretare il motto di quell'anno:"The show must go on!". Lo stesso
+                        messaggio venne poi racchiuso nel logo delle maglie STAFF: una fiamma che potesse continuare ad
+                        ardere con la stessa intensit&agrave e passione con cui era stato "acceso" un ambiente
+                        universitario pi&ugrave; caloroso ed accogliente negli ultimi anni.
+                        <img class="imgLeft" src="../../assets/img/storia/2013/MagliaCeleb.jpg" alt=""/>
                         <br>
-                        <br/>
-                        - l'introduzione dell'angolo foto, che si &egrave; rivelato essere una perfetta attrazione,
-                        riscuotendo un enorme successo;
                         <br>
-                        <br/>
-                        - il concorso Scielfie, indetto nel mese di Maggio, a cui ogni studente di Scienze poteva
-                        partecipare con un selfie. Nel corso della serata vennero premiati i selfie pi&ugrave; belli ed
-                        originali.
+                        Le emozioni di quel periodo furono il vero tratto distintivo dell'edizione 2013. Emozioni che
+                        emersero nella loro sfumatura pi&ugrave; positiva in due momenti durante la serata: la consegna
+                        delle maglie STAFF celebrative nere-oro ai ragazzi del gruppo organizztivo, maglie che
+                        ritraevano la stessa fiamma circondata da tante stelle quante erano le passate edizioni della
+                        festa, con sulle spalle la scritta "When a little people become a STAFF" e la consegna ai
+                        fedelissimi Lino e Paolino, di due riconoscimenti ufficiali firmati dai Direttori dei
+                        Dipartimenti (Biotecnologie ed Informatica) che elogiavano il loro impegno e la dedizione
+                        all'attivit&agrave di Rappresentanza.
                         <br>
-                        <br/>
-                        L'evento fu pubblicizzato dalla radio Universitaria con un intervista fatta ad uno degli
-                        organizzatori e dal magazine dell'Universit&agrave;.
                         <br>
-                        <br/>
-                        La festa si svolse nel migliore dei modi e dopo aver chiuso i cancelli, il 6 giugno 2014 divent&ograve;
-                        un giorno da non poter dimenticare! Il ricavato devoluto in beneficienza fu il doppio del 2013 e
-                        il ricordo di quella serata rimase impresso nella mente di tutti coloro che resero magica la
-                        festa di Scienze 2014.
-                        <br>
-                        <br/>
-                        <a href="http://www.fuoriaulanetwork.net/podcast/lino-faedda-festa-di-scienze/">Link
-                            all'intervista</a>
-                        <br>
-                        <br/>
-                        <a href="http://www.univrmagazine.it/sito/vedi_articolo.php?id=2466">Link all'articolo</a>
-
+                        Istanti che, di fatto, segnarono il vero e proprio "passaggio di testimone" nell'organizzazione
+                        della Festa.
 
                         <!---------------------------------------------------------------------->
 

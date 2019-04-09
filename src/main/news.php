@@ -5,7 +5,7 @@
 -->
 
 <?php //Include delle librerie
-include 'assets/php/template_function.php';
+include 'assets/utils/template_function.utils';
 ?>
 
 <?php getHTMLSuperHead(); ?>

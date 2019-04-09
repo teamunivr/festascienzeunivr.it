@@ -5,7 +5,7 @@
 -->
 
 <?php //Include delle librerie
-include 'assets/php/template_function.php';
+include 'assets/utils/template_function.utils';
 ?>
 
 <?php getHTMLSuperHead(); ?>
@@ -54,7 +54,7 @@ include 'assets/php/template_function.php';
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <ul>
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="../main/index.php">Home</a></li>
                     <li><a href="#">Storia 2017</a></li>
                 </ul>
             </div>
@@ -69,7 +69,7 @@ include 'assets/php/template_function.php';
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12">
                 <article class="latest-post detail">
-                    <img src="../assets/img/storia/2017/gruppo_2017.jpg" alt="dummy">
+                    <img src="../../assets/img/storia/2017/gruppo_2017.jpg" alt="dummy">
                     <h2>Festascienze is us</h2>
                     <p text-indent="100%">
 

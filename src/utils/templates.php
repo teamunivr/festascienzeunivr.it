@@ -20,7 +20,7 @@
 	
 -->
 <?php
-include 'assets/php/db_function.php';
+include 'dbutils.php';
 
 function getHTMLSuperHead() {
     echo "<!DOCTYPE html>";
@@ -215,7 +215,7 @@ function getHTMLHeader() {
                                             <!-- <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                                                 <div class="video-feed">
                                                     <img src="assets/img/gallery/gallery_2018.jpg" alt="2018"/>
-                                                    <a href="gallery.php?year=2018"><span
+                                                    <a href="gallery.utils?year=2018"><span
                                                                 class="fa fa-picture-o"></span></a>
                                                     <h5>2018</h5>
                                                 </div>
@@ -344,8 +344,8 @@ function getHTMLFooter() {
     <article class="blog-post">
     <img src="assets/img/concorsi/concorso_2014_scielfie_menu.jpg" alt=""/>
     <div class="hover">
-    <!--<a href="concorso.php?id=1">-->
-    <a href="concorso2014.php">
+    <!--<a href="concorso.utils?id=1">-->
+    <a href="concorso2014.utils">
     <h2>#SCIELFIE</h2>
     <p>2014</p>
     </a> 
@@ -357,8 +357,8 @@ function getHTMLFooter() {
     <article class="blog-post">
     <img src="assets/img/concorsi/concorso_2013_mmsi_menu.jpg" alt=""/>
     <div class="hover">
-    <!--<a href="concorso.php?id=0">-->
-    <a href="concorso2013.php">
+    <!--<a href="concorso.utils?id=0">-->
+    <a href="concorso2013.utils">
     <h2>Miss & Mister Scienze-Ingegneria</h2>
     <p>2013</p>
     </a>   
@@ -412,7 +412,7 @@ function getHTMLFooter() {
 
                 <!--<div class="col-lg-3 col-md-3 col-sm-3">
                     <h4><span class="fa fa-envelope"></span>Registrati alla newsletter</h4>
-                    <form id="newsletter" action="newsletter.php" method="post">
+                    <form id="newsletter" action="newsletter.utils" method="post">
                     <input name="mail" placeholder="Inserisci qui la tua mail" />
                     <button class="submit-btn">submit</button>
                     </form>
@@ -427,24 +427,24 @@ function getHTMLFooter() {
 
 
     <script type="text/javascript" src="https://nibirumail.com/docs/scripts/nibirumail.cookie.min.js"></script>
-    <script src="/assets/js/jquery-1.9.js"></script>
-    <script src="/assets/js/bootstrap.min.js"></script>
-    <script src="/assets/js/jquery.lazyload.js" type="text/javascript"></script>
-    <script src="/assets/js/jquery.scrollUp.min.js" type="text/javascript"></script>
-    <script src="/assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
-    <script src="/assets/js/jquery.mousewheel.min.js"></script>
-    <script src="/assets/js/jquery.easing-1.3.pack.js"></script>
-    <script src="/assets/js/jflickrfeed.min.js"></script>
-    <script src="/assets/js/jquery.flexslider-min.js"></script>
-    <script src="/assets/js/jquery.carouFredSel-6.2.1-packed.js"></script>
-    <script src="/assets/js/tweetable.jquery.min.js"></script>
-    <script src="/assets/js/jquery.prettyPhoto.js"></script>
-    <script src="/assets/jPlayer/jquery.jplayer.min.js"></script>
-    <script src="/assets/jPlayer/add-on/jplayer.playlist.min.js"></script>
-    <script src="/assets/js/jquery.vegas.min.js"></script>
-    <script src="/assets/js/jquery.calendar-widget.js"></script>
-    <script src="/assets/js/jquery.mb.YTPlayer.js"></script>
-    <script src="/assets/js/main.js"></script>
+    <script src="/js/jquery-1.9.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/jquery.lazyload.js" type="text/javascript"></script>
+    <script src="/js/jquery.scrollUp.min.js" type="text/javascript"></script>
+    <script src="/js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="/js/jquery.mousewheel.min.js"></script>
+    <script src="/js/jquery.easing-1.3.pack.js"></script>
+    <script src="/js/jflickrfeed.min.js"></script>
+    <script src="/js/jquery.flexslider-min.js"></script>
+    <script src="/js/jquery.carouFredSel-6.2.1-packed.js"></script>
+    <script src="/js/tweetable.jquery.min.js"></script>
+    <script src="/js/jquery.prettyPhoto.js"></script>
+    <script src="/jPlayer/jquery.jplayer.min.js"></script>
+    <script src="/jPlayer/add-on/jplayer.playlist.min.js"></script>
+    <script src="/js/jquery.vegas.min.js"></script>
+    <script src="/js/jquery.calendar-widget.js"></script>
+    <script src="/js/jquery.mb.YTPlayer.js"></script>
+    <script src="/js/main.js"></script>
 
 
 <?php } ?>

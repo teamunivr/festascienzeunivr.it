@@ -5,7 +5,7 @@
 -->
 
 <?php //Include delle librerie
-include 'assets/php/template_function.php';
+include 'assets/utils/template_function.utils';
 ?>
 
 <?php getHTMLSuperHead(); ?>
@@ -54,7 +54,7 @@ include 'assets/php/template_function.php';
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <ul>
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="../main/index.php">Home</a></li>
                     <li><a href="#">Storia 2015</a></li>
                 </ul>
             </div>

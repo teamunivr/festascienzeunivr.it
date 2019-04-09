@@ -5,14 +5,14 @@
 -->
 
 <?php //Include delle librerie
-include 'assets/php/template_function.php';
+include 'assets/utils/template_function.utils';
 ?>
 
 <?php getHTMLSuperHead(); ?>
 <html>
 
 <head>
-    <?php getHTMLHead('Storia 2011'); ?>
+    <?php getHTMLHead('Storia 2014'); ?>
     <style type="text/css">
         .imgLeft {
             float: left !important;
@@ -55,12 +55,12 @@ Home
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6">
-                <h1>Storia 2011</h1>
+                <h1>Storia 2014</h1>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <ul>
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="#">Storia 2011</a></li>
+                    <li><a href="../main/index.php">Home</a></li>
+                    <li><a href="#">Storia 2014</a></li>
                 </ul>
             </div>
         </div>
@@ -74,72 +74,75 @@ Home
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12">
                 <article class="latest-post detail">
-                    <img src="../assets/img/storia/2011/storia_2011.jpg" alt="dummy">
-                    <h2>Piccole feste crescono...</h2>
+                    <img src="../../assets/img/storia/2014/storia_2014.jpg" alt="dummy">
+                    <h2>Ci crediamo ancora!</h2>
                     <p text-indent="100%">
+
                         <!---------------------------------------------------------------------->
-                        <img class="imgLeft" src="../assets/img/storia/2011/gallery_fsu_2011_0042.jpg" alt=""/>
-                        L'edizione 2010 era andata bene per quanto riguarda l'aspetto organizzativo, ma rimanevano
-                        ancora alcune cose da migliorare.
-                        Aspetti sostanziali, come quelli economici.
-                        <br/>Era necessario rivedere alcune forniture e servizi: se da un lato si era riusciti a
-                        terminare la festa senza troppi problemi, il 2010 non aveva lasciato molto spazio alla
-                        beneficenza, solo 330&euro; devoluti.
-                        <br/>Fondi che erano stati raccolti dallo staff a fine servizio, perch&egrave; la serata aveva
-                        coperto al centesimo i costi d'allestimento. Notizia davvero poco incoraggiante se si pensa che
-                        dopo tutti quegli sforzi non era rimasto molto.
-                        <br/>Il punto verteva nuovamente sul coinvolgere sempre pi&ugrave; persone e per farlo bisognava
-                        rendere ancora pi&ugrave; accogliente l'ambiente in serata.
+                        <img class="imgLeft" src="../../assets/img/storia/2014/DSC_0094.JPG" alt=""/>
+
+                        Il 2014 &egrave; stato l'anno di un importante cambiamento per la Festa di Scienze: il suo
+                        ideatore e fondatore, dopo essersi laureato, ha passato le redini dell'organizzazione al
+                        consolidato ed affiatato gruppo composto da Lino, Paolino, Ale Ago, Diego, Malfa e Ale Fin (I
+                        Magnifici Sei).
                         <br>
                         <br/>
-                        <img class="imgRight" src="../assets/img/storia/2011/gallery_fsu_2011_0143.jpg" alt=""/>
-
-                        A dare man forte ai propri sforzi, sull'onda dell'anno precedente, venne scelto un motto che
-                        potesse incoraggiare gli studenti a non arrendersi ai risultati ottenuti ma a proseguire sempre
-                        imparando dai propri errori: SHOSHOLOZA, una parola sudafricana che significa "andare avanti".
+                        Gi&agrave; la festa del 2013 aveva avuto un successo straordinario sotto tutti i punti di vista
+                        (incasso, beneficienza, soddisfazioni personali), di conseguenza le aspettative per il 2014
+                        risultavano essere numerose e l'obiettivo che prefisso era quello di dimostrare di essere
+                        all'altezza della grande responsabilit&agrave; affidata al gruppo.
+                        <br>
+                        Le idee rimasero le stesse degli anni precedenti, ponendo come aspirazione principale l'idea di
+                        continuare a credere in un ambiente universitario sempre aperto, accogliente ed ospitale.
+                        Per questo motivo &egrave; stato scelto il motto " Don't Stop Believin' " associato al logo
+                        creato per le maglie raffigurante una catena, simbolo della voglia di rimanere uniti, e di
+                        continuare a mantenere il benessere e il clima raggiunti finora.
                         <br>
                         <br/>
-                        Il risultato di quell'edizione fu molto incoraggiante.
-                        <br/>L'idea iniziale che aveva alimentato la festa, l'idea della costruzione di un ambiente
-                        universitario pi&ugrave; caldo, accogliente e ospitale iniziava a farsi sentire. La
-                        dimostrazione non arriv&ograve; solo dall'ulteriore crescita in numero dei componenti dello
-                        STAFF, ma anche dall'input che l'allora preside di facolt&agrave;, Prof. Roberto Giacobazzi,
-                        forn&igrave; contattando la stampa universitaria per dare rilievo all'evento.
+                        Allo staff organizzativo vennero aggiunte la commissione Pubblicit&agrave; e la commissione Sito
+                        web, grazie alla quale nel 2014 &egrave; nato il sito web ufficiale della Festa di Scienze.
+                        <br>
+                        Le iscrizioni allo staff ebbero un successo eccezionale: 22 furono i componenti
+                        nell'organizzativo e 96 nell'esecutivo. Le vendite delle pre-consumazioni superarono del doppio
+                        i numeri dell'anno precedente, aumentando cos&igrave; le aspettative pre-festa.
                         <br>
                         <br/>
-                        <img class="imgLeft" src="../assets/img/storia/2011/gallery_fsu_2011_0213.jpg" alt=""/>
-                        Intervista del Prof. Giacobazzi:
-                        <br/>
-                        "Ormai sono 3 anni che si svolge a Scienze la festa di fine anno - spiega il preside Roberto
-                        Giacobazzi - &Egrave; una delle pi&ugrave; belle iniziative di aggregazione di studenti voluta,
-                        organizzata e gestita perfettamente da loro in totale autonomia, a cui la facolt&agrave; ha
-                        contribuito con una spesa minima di 75 euro. La festa di scienze sta crescendo ed in tre anni
-                        &egrave; diventata un appuntamento ormai irrinunciabile, che aggrega studenti, docenti, amici,
-                        ed abitanti del quartiere di Borgo Roma. Penso che fare universit&agrave; sia non solo offrire
-                        ricerca e didattica di alta qualit&agrave;, ma anche saper dare un'identit&agrave; attorno alla
-                        quale aggregare i ragazzi per creare una vera comunit&agrave; universitaria, che sappia crescere
-                        anche divertendosi. Sono gli anni pi&ugrave; belli e non vanno sprecati!".
-
-                        <br/>
-                        A dimostrazione di ci&ograve;, durante la serata venne calato da uno dei due palazzi CaVignal,
-                        uno striscione di 10 x 4 mt con riportato quello che poi divenne il motto di quell'edizione:
-                        "Rise and Rise again until lambs become lions".
-                        <br/>
-
-                        Si ringraziano Lara Montresor, Fabio Marco Caputo e Federico Borin, per la collaborazione nella
-                        creazione dello striscione.
+                        <img class="imgRight" src="../../assets/img/storia/2014/gallery_fsu_2012_0332.png" alt=""/>
+                        Tra le ulteriori novit&agrave; per la serata della festa si possono ricordare:
                         <br>
                         <br/>
-                        Altro avvenimento importantissimo di quell'anno fu la nascita di quella che poi &egrave; divent&ograve;
-                        la Mascotte dell'universit&agrave;: SHOSHOLORSO, l'orsacchiotto di peluches che da 4 anni saluta
-                        gli studenti che passano davanti all'ufficio rappresentanti.
-                        <br/><br/>
+                        - la nuova AREA RICERCA, situata nella zona del "Computer Science Park", dove gli ospiti
+                        potevano seguire un percorso allestito con esposizioni di progetti di ricerca del Dipartimento
+                        di Informatica e del Dipartimento di Biotecnologie;
+                        <br>
+                        <br/>
+                        - l'introduzione dell'angolo foto, che si &egrave; rivelato essere una perfetta attrazione,
+                        riscuotendo un enorme successo;
+                        <br>
+                        <br/>
+                        - il concorso Scielfie, indetto nel mese di Maggio, a cui ogni studente di Scienze poteva
+                        partecipare con un selfie. Nel corso della serata vennero premiati i selfie pi&ugrave; belli ed
+                        originali.
+                        <br>
+                        <br/>
+                        L'evento fu pubblicizzato dalla radio Universitaria con un intervista fatta ad uno degli
+                        organizzatori e dal magazine dell'Universit&agrave;.
+                        <br>
+                        <br/>
+                        La festa si svolse nel migliore dei modi e dopo aver chiuso i cancelli, il 6 giugno 2014 divent&ograve;
+                        un giorno da non poter dimenticare! Il ricavato devoluto in beneficienza fu il doppio del 2013 e
+                        il ricordo di quella serata rimase impresso nella mente di tutti coloro che resero magica la
+                        festa di Scienze 2014.
+                        <br>
+                        <br/>
+                        <a href="http://www.fuoriaulanetwork.net/podcast/lino-faedda-festa-di-scienze/">Link
+                            all'intervista</a>
+                        <br>
+                        <br/>
+                        <a href="http://www.univrmagazine.it/sito/vedi_articolo.php?id=2466">Link all'articolo</a>
 
-                        <a href="http://www.univrmagazine.it/sito/vedi_articolo.php?id=1165">Link all'articolo</a>
-                    </p>
 
-
-                    <!---------------------------------------------------------------------->
+                        <!---------------------------------------------------------------------->
 
                 </article>
             </div>

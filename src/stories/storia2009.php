@@ -5,7 +5,7 @@
 -->
 
 <?php //Include delle librerie
-include 'assets/php/template_function.php';
+include 'assets/utils/template_function.utils';
 ?>
 
 <?php getHTMLSuperHead(); ?>
@@ -59,7 +59,7 @@ Home
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <ul>
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="../main/index.php">Home</a></li>
                     <li><a href="#">Storia 2009</a></li>
                 </ul>
             </div>
@@ -74,7 +74,7 @@ Home
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12">
                 <article class="latest-post detail">
-                    <img src="../assets/img/storia/2009/storia_2009.jpg" alt="dummy">
+                    <img src="../../assets/img/storia/2009/storia_2009.jpg" alt="dummy">
                     <h2>La nascita di un evento...</h2>
                     <p text-indent="100%">
 
@@ -95,7 +95,7 @@ Home
                         di ghiaccio" che divideva rappresentanti e studenti.
                         <br>
                         <br/>
-                        <img class="imgLeft" src="../assets/img/storia/2009/gallery_fsu_2009_0016.jpg" alt=""/>
+                        <img class="imgLeft" src="../../assets/img/storia/2009/gallery_fsu_2009_0016.jpg" alt=""/>
                         Wudy era convinto che il problema fosse legato a due fattori primari:
                         <br/>
                         * In primo luogo le scarse opportunit&agrave; d'interazione che l'universit&agrave; lasciava:
@@ -136,7 +136,7 @@ Home
                         studenteschi negli orari extra-didattici al termine delle lezioni.
                         Di 2000 iscritti, solo una ventina partecipava con costanza agli appuntamenti.
                         <br/>
-                        <img class="imgRight" src="../assets/img/storia/2009/gallery_fsu_2009_0003.jpg" alt=""/>
+                        <img class="imgRight" src="../../assets/img/storia/2009/gallery_fsu_2009_0003.jpg" alt=""/>
                         Molti si limitavano ad aiuti pratici di poca responsabilit&agrave;, ma due in particolare, gi&agrave;
                         compagni di corso del rappresentante, si distinsero per l'interesse e la dedizione: l'amico
                         sardo Lino Faedda, l'amico veronese Paolo -Paolino- Erbizi.

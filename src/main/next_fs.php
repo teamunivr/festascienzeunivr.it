@@ -1,4 +1,4 @@
-<?php include 'assets/php/template_function.php'; ?>
+<?php include 'assets/utils/template_function.utils'; ?>
 <!doctype html>
 <html lang="it">
 <head>
@@ -111,7 +111,7 @@
             </article>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-4">
-            <img src="/assets/img/locandina.jpg" style="max-width: 100%"></img>
+            <img src="/img/locandina.jpg" style="max-width: 100%"></img>
             <br><br>
         </div>
     </div>
