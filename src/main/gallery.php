@@ -1,5 +1,5 @@
 <?php
-include 'assets/utils/template_function.utils';
+include 'assets/utils/templates.utils';
 if (isset($_GET["year"]))
     $year = $_GET["year"];
 getHTMLSuperHead();

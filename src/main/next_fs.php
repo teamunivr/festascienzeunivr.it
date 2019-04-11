@@ -1,4 +1,4 @@
-<?php include 'assets/utils/template_function.utils'; ?>
+<?php include 'assets/utils/templates.utils'; ?>
 <!doctype html>
 <html lang="it">
 <head>

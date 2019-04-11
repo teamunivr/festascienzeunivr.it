@@ -1,5 +1,5 @@
 <?php
-include 'assets/utils/template_function.utils';
+include 'assets/utils/templates.utils';
 ?>
 
 <!doctype html>
@@ -51,7 +51,7 @@ include 'assets/utils/template_function.utils';
                         <li>
                             <div id="DateCountdown" data-date="2019-06-07 18:30:00"
                                  style="width: 1140px; height: 390px;"></div>
-                            <div class="hideit"><img src="assets/img/gallery/gallery_2017.jpg" alt="2017"></div>
+                            <div class="hideit"><img src="/assets/img/gallery/gallery_2017.jpg" alt="2017"></div>
                             <script>
                                 $("#DateCountdown").TimeCircles({
                                     time: {

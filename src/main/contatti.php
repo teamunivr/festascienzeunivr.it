@@ -1,5 +1,5 @@
 <?php
-include 'assets/utils/template_function.utils';
+include 'assets/utils/templates.utils';
 getHTMLSuperHead();
 ?>
 <html>
@@ -56,7 +56,6 @@ getHTMLSuperHead();
                 <p><a href="mailto:info@festascienzeunivr.it">info@festascienzeunivr.it</a></p>
             </div>
         </div>
-    </div>
     </div>
 </section>
 
