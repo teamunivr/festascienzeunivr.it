@@ -35,6 +35,7 @@ if (!(isset($_GET['aa']) && isset($_GET['n']))) {
     die("Si � verificato un errore, controllare di essere arrivati a questa pagina tramite un link corretto!");
     return 0;
 }
+
 $info = infoNews($_GET['aa'], $_GET['n']);
 if ($info == -1) {
     die("Si � verificato un errore, controllare di essere arrivati a questa pagina tramite un link corretto!");

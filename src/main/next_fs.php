@@ -28,12 +28,6 @@
 
                         <h2>INGRESSO LIBERO e APERTO A TUTTI!!</h2>
 
-                        <p>Per gli studenti provenienti dal centro (Veronetta) sarà possibile usufruire del regolare
-                            servizio Bus Atv n°93, che percorrerà la tratta: C.SO CAVOUR 32/B - P.LE SCURO LATO
-                            POLICLINICO.
-                            Ultima corsa dal POLICLINICO alle 02.01 di notte</p>
-
-                        <p>
                             Possibilità di acquisto delle pre-consumazioni (non si tratta di prevendite, l'ingresso è
                             libero) :</p>
                         <ul>
