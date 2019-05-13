@@ -149,13 +149,14 @@ include 'assets/php/template_function.php';
                 <article class="latest-post detail">
                     <center>
                         <div class="album-detail album-purchase">
-                            <a><h2>WE'RE WORKING FOR YOU</h2></a>
-                        </div>
+                            <a><h2>ISCRIVITI ALLO STAFF DI FESTASCIENZE 2019!</h2></a>
+                        </div> 
                     </center>
+                    
                 </article>
-                <!-- <a><img style="max-width: 100%; display: block; margin: auto;"
-                        src="/assets/img/paginaincostruzione.jpg"></a> -->
-                <!--a href="/festa2017.php"><h3 style="text-align: center;">Tutti i dettagli dell'evento qui</h3></a-->
+                 <a><img style="max-width: 100%; display: block; margin: auto;"
+                        src="/assets/img/recruit2018.jpg"></a> 
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScD8QVkkNKV5DfZhr9zNkCSOyjA-DpclGehaGL_d0oMlTFt8g/viewform?usp=sf_link"><h3 style="text-align: center;">Compila il form ora!</h3></a>
                 <br>
             </div>
 
